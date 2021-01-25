@@ -24,7 +24,3 @@ function(){
   rand <- rnorm(100)
   hist(rand)
 }
-
-# Serve index.html
-# #* @assets ./static /
-# list()
